@@ -1,1 +1,8 @@
 /* Write your CSS here! */
+p {
+    background-color: cornflowerblue;
+
+    margin: 500px 100px 150px 80px;
+
+    padding: 10px;
+}
