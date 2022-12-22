@@ -1,8 +1,39 @@
 /* Write your CSS here! */
+body {
+
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
 p {
-    background-color: cornflowerblue;
+    color: navy;
+}
 
-    margin: 500px 100px 150px 80px;
+#mainHeading {
+    text-align: center;
+    color: red
+}
+img {
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    border-radius: 8px;
+}
 
-    padding: 10px;
+
+li {
+    padding-top: 15px;
+    font-family: 'Playfair Display', serif;
+}
+
+ul {
+    padding-right: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.active {
+    padding-right: 30px;
 }
