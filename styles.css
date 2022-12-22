@@ -1,12 +1,22 @@
-#mainHeading {
-    text-align: center;
-    color: red
+p {
+
+    color: red;
+    text-align: left;
 }
 
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
 
 body {
+    margin: 8px;
 
-    background-color: powderblue;
+    display: block;
+    background-color: rgb(169, 180, 182);
 }
 
 h1 {
@@ -19,7 +29,7 @@ p {
 
 
 img {
-    width: 30%;
+    width: 80%;
     height: 30%;
     margin: 10px;
     border-radius: 8px;
