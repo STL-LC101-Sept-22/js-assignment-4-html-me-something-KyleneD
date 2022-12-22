@@ -1,4 +1,9 @@
-/* Write your CSS here! */
+#mainHeading {
+    text-align: center;
+    color: red
+}
+
+
 body {
 
     background-color: powderblue;
@@ -12,10 +17,7 @@ p {
     color: navy;
 }
 
-#mainHeading {
-    text-align: center;
-    color: red
-}
+
 img {
     width: 30%;
     height: 30%;
